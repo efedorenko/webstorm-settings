@@ -18,10 +18,9 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
+      <mask>*.twi</mask>
       <mask>*.twig</mask>
     </recentFileMasks>
   </component>
