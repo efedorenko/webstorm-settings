@@ -17,12 +17,17 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
