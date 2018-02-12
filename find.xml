@@ -21,13 +21,17 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.jsx\</mask>
+      <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
       <mask>*.json</mask>
