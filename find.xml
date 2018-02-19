@@ -6,8 +6,6 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -21,20 +19,23 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.jsx\</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
       <mask>*.tsx</mask>
       <mask>*.json</mask>
+      <mask>*.json</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*.e</mask>
+      <mask>*.er</mask>
+      <mask>*.erb</mask>
     </recentFileMasks>
   </component>
 </application>
