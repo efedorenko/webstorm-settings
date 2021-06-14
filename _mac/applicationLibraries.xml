@@ -586,6 +586,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/ast-2.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.4.2, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ast-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ast-2.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="authlogic (v6.4.0, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -705,11 +716,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bindex/0.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/bindex-0.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/bindex-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/bindex-0.8.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/bindex/0.8.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/bindex-0.8.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/bindex-0.8.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/bindex-0.8.1/test" />
@@ -3848,6 +3861,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/spec" />
@@ -3856,6 +3870,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.5.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/nio4r-2.5.7/spec" />
@@ -4102,6 +4117,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/parallel-1.20.1/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.20.1, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parallel-1.20.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parallel-1.20.1/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v3.0.0.0, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4116,6 +4142,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/parser-3.0.0.0/bin" />
+      </excluded>
+    </library>
+    <library name="parser (v3.0.1.1, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parser-3.0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parser-3.0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parser-3.0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parser-3.0.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/parser-3.0.1.1/bin" />
       </excluded>
     </library>
     <library name="postmark (v1.21.3, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
@@ -4549,6 +4591,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/lib" />
@@ -4558,6 +4601,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/racc/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/racc-1.5.2/lib" />
@@ -4903,6 +4947,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/rainbow-3.0.0/spec" />
       </excluded>
     </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rainbow-3.0.0/spec" />
+      </excluded>
+    </library>
     <library name="rake (v12.3.3, RVM: ruby-2.6.6 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5037,11 +5097,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rb-fsevent-0.10.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rb-fsevent-0.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rb-fsevent-0.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rb-fsevent-0.10.4/lib" />
@@ -5630,6 +5692,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/rubocop-0.84.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v1.16.1, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-1.16.1/config" />
+      </excluded>
+    </library>
     <library name="rubocop-ast (v0.0.3, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5639,6 +5723,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/rubocop-ast-0.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop-ast (v1.7.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-ast-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/rubocop-ast-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop-rspec (v1.39.0, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
@@ -5688,6 +5783,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/ruby-progressbar-1.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.11.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-progressbar-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/ruby-progressbar-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby2_keywords (v0.0.4, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
@@ -6863,6 +6969,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@postmark/gems/unicode-display_width-1.7.0/data" />
       </excluded>
     </library>
+    <library name="unicode-display_width (v2.0.0, RVM: ruby-2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/unicode-display_width-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/unicode-display_width-2.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/unicode-display_width-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/unicode-display_width-2.0.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/unicode-display_width-2.0.0/data" />
+      </excluded>
+    </library>
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.6.6 [postmark]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7071,10 +7193,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/websocket-driver-0.7.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/websocket-driver/0.7.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/websocket-driver-0.7.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/websocket-driver-0.7.3/lib" />
       </SOURCES>
