@@ -14,9 +14,9 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.twig</mask>
-    <mask>*.scss</mask>
     <mask>*.erb</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
