@@ -7,7 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
-    <mask>*.css</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
@@ -21,6 +20,7 @@
     <mask>*.html.erb</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
     <mask>*.scss</mask>
   </component>
 </application>
