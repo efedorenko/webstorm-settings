@@ -4,6 +4,8 @@
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping pattern="sitemap.xml" type="Twig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
