@@ -17,7 +17,7 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
