@@ -4,5 +4,6 @@
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
   </component>
 </application>
