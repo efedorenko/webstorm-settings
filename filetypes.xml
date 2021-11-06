@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="unsubscribed.twig" type="AUTO_DETECTED" />
       <mapping pattern="*.mjml.twig" type="MJML" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
