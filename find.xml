@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.erb" />
     <mask>*.xml</mask>
     <mask>*.shtml</mask>
     <mask>*.shtm</mask>
@@ -13,11 +14,11 @@
     <mask>*.cjs</mask>
     <mask>*.erb</mask>
     <mask>*.html</mask>
-    <mask>*.html.erb</mask>
     <mask>*.ts</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
