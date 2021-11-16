@@ -17,7 +17,7 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
-    <mask>*.html.erb</mask>
     <mask>*.scss</mask>
+    <mask>*.html.erb</mask>
   </component>
 </application>
