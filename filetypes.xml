@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="unsubscribed.twig" type="AUTO_DETECTED" />
-      <mapping pattern="*.mjml.twig" type="MJML" />
       <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern=".sassrc" type="PLAIN_TEXT" />
       <mapping pattern=".posthtmlrc" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping pattern="sitemap.xml" type="Twig" />
       <removed_mapping pattern="*.html.twig" approved="true" type="MJML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping pattern="*.mjml.twig" type="MJML" />
+      <mapping pattern="sitemap.xml" type="Twig" />
     </extensionMap>
   </component>
 </application>
