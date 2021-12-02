@@ -7,34 +7,14 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="CapistranoRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="CommandRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="CucumberRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="DatabaseScript">
-                    <value>
-                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -45,11 +25,6 @@
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="IrbRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JavaScriptNodeJsTraceType">
@@ -102,39 +77,9 @@
                       <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="RSpecRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="RSpec" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="RackRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Rack" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="RailsRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="RakeRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Rake" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="RubyRemoteDebugConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Ruby remote debug" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="RubyRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Ruby" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ShConfigurationType">
@@ -142,39 +87,14 @@
                       <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="SporkRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Spork DRb" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="TSqltConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="TailRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Tail" pluginName="Grep Console" pluginId="GrepConsole" />
                     </value>
                   </entry>
-                  <entry key="TestUnitRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Test::Unit/Shoulda/Minitest" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="UtPlSqlConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="ZeusRunConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="cucumber.js">
@@ -219,22 +139,7 @@
         </entry>
         <entry key="com.intellij.facetType">
           <value>
-            <FeaturePluginsList>
-              <option name="featureMap">
-                <map>
-                  <entry key="RailsFacetType">
-                    <value>
-                      <FeaturePluginData displayName="Ruby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="gem">
-                    <value>
-                      <FeaturePluginData displayName="Gem" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </FeaturePluginsList>
+            <FeaturePluginsList />
           </value>
         </entry>
       </map>
